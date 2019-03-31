@@ -23,9 +23,9 @@ Docstrings, comments, and variable names enable readability of the code.
 
 ## Script and Questions
 
-###Solicit and handle raw user input
+### Solicit and handle raw user input
 Raw input is solicited and handled correctly to guide the interactive question-answering experience; no errors are thrown when unexpected input is entered.
 
-###Use descriptive statistics to answer questions about the data. Raw data is displayed upon request by the user.
+### Use descriptive statistics to answer questions about the data. Raw data is displayed upon request by the user.
 Descriptive statistics are correctly computed and used to answer the questions posed about the data. Raw data is displayed upon request by the user in this manner: Script should prompt the user if they want to see 5 lines of raw data, display that data if the answer is 'yes', and continue these prompts and displays until the user says 'no'.
 
